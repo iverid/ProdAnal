@@ -218,3 +218,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Окружение
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE и ОС
+.vscode/
+.idea/
+.DS_Store
+
+# Данные: см. ниже, зависит от лицензии и размера
+data/raw/*.csv
+data/interim/
