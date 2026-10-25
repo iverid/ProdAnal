@@ -233,6 +233,5 @@ __pycache__/
 .idea/
 .DS_Store
 
-# Данные: см. ниже, зависит от лицензии и размера
-data/raw/*.csv
+# Данные
 data/interim/
